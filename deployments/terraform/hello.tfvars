@@ -1,0 +1,6 @@
+credentials = "common-service-account.json"
+google_bucket_name = "rbbit-fuchicorp"
+deployment_name = "common_tools"
+google_project_id = "third-diorama-285415"
+google_domain_name = "safedevops.com"
+deployment_environment = "qa"
